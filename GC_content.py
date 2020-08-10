@@ -1,5 +1,5 @@
 
-with open('/Users/tusharagashe/Desktop/Workspace/rosalind/rosalind_gc.txt', 'r') as fp:
+with open('PATH', 'r') as fp:
   code = ""
   DNA = ""
   content = 0.0
