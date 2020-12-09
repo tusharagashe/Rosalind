@@ -1,9 +1,9 @@
 
 
-n = 31   
-k = 4
+n = 6   
+k = 3
 g_pairs = 1
-i = 2
+i = 1
 t_pairs = 1
 
 while (i < n):
