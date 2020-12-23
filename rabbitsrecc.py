@@ -1,8 +1,8 @@
 
 
-n = 6   
+n = 5   
 k = 3
-g_pairs = 1
+g_pairs = 0
 i = 1
 t_pairs = 1
 
