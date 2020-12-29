@@ -16,4 +16,4 @@ for nuc in s:
   elif(nuc == 'T'):
     cnt_T += 1
 
-print(cnt_A, cnt_C, cnt_G, cnt_T)
+return array(cnt_A,cnt_C,cnt_G,cnt_T)
